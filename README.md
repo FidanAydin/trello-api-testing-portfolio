@@ -1,4 +1,4 @@
-# 🧪 Trello API Testing Portfolio
+# 🧪 Trello API Testing
 
 API testing project built using **Postman** to validate Trello REST APIs including board creation, retrieval, and negative scenarios.
 
