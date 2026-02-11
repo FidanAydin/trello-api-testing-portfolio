@@ -1,6 +1,9 @@
 # 🧪 Trello API Testing
 
-API testing project built using **Postman** to validate Trello REST APIs including board creation, retrieval, and negative scenarios.
+API testing is done to validate the endpoints,functions, menthods sending different HTTP requests to the server and comparing its response with the expected data. It is also faster than the UI testing as the testers do not have to go click by click to validate the application functionality. 
+In order to verify APIs are working properly testers must assert the status codes, valid/invalid data received in the response. There are many user-friendly API testing tools,such as Postman, Swagger and others, to use while working on APIs.
+
+This is an API testing project built using **Postman** to validate Trello REST APIs including the creation of a board and its componenets.
 
 ---
 
