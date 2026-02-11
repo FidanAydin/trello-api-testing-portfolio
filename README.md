@@ -56,7 +56,6 @@ This is an API testing project built using **Postman** to validate Trello REST A
 
 ![Test Scripts to Assert the Response Body](https://github.com/FidanAydin/trello-api-testing-portfolio/blob/main/Postman_API.png)
 ## ▶️ How to Run Tests
-(https://github.com/FidanAydin/trello-api-testing-portfolio/blob/main/colection_runner.png)
 
 ### Run in Postman
 
@@ -64,3 +63,5 @@ This is an API testing project built using **Postman** to validate Trello REST A
 2. Import environment
 3. Add API key + token
 4. Click **Run**
+
+![Postman Collection Runner](https://github.com/FidanAydin/trello-api-testing-portfolio/blob/main/colection_runner.png)
