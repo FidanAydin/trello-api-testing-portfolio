@@ -54,9 +54,10 @@ This is an API testing project built using **Postman** to validate Trello REST A
 * ✅ Delete a Card
 * ✅ Delete Board 
 
-
+(https://github.com/FidanAydin/trello-api-testing-portfolio/blob/main/Postman_API.png)
 
 ## ▶️ How to Run Tests
+(https://github.com/FidanAydin/trello-api-testing-portfolio/blob/main/colection_runner.png)
 
 ### Run in Postman
 
