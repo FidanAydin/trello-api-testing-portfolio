@@ -7,10 +7,10 @@ API testing project built using **Postman** to validate Trello REST APIs includi
 ## 🔗 Project Links
 
 * 📬 Postman Collection:
-  [Download Collection](collections/Trello_API_Tests.postman_collection.json)
+  [Download Collection](https://github.com/FidanAydin/trello-api-testing-portfolio/blob/main/Trello_API_Tests.postman_collection.json)
 
 * 🌍 Postman Environment:
-  [Download Environment](environments/Trello_Environment.postman_environment.json)
+  [Download Environment](https://github.com/FidanAydin/trello-api-testing-portfolio/blob/main/Trello_Environment.postman_environment.json)
 
 * 📮 Trello API Docs:
   https://developer.atlassian.com/cloud/trello/rest/
