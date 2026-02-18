@@ -30,7 +30,6 @@
               "let jsonData = pm.response.json();\r",
               "\r",
               "\r",
-              "\r",
               "pm.test(\"Status code is 200\", function () {\r",
               "    pm.response.to.have.status(200);\r",
               "});\r",
@@ -420,11 +419,8 @@
           }
         }
       ],
-      "protocolProfileBehavior": {
-        "disableBodyPruning": true
-      },
       "request": {
-        "method": "GET",
+        "method": "PUT",
         "header": [
           {
             "key": "Content-Type",
@@ -888,14 +884,14 @@
         "method": "DELETE",
         "header": [],
         "url": {
-          "raw": "{{baseURL}}/1/cards/{{card1ID}}/checklists/{{checklistID}}?key={{key}}&token={{token}}",
+          "raw": "{{baseURL}}/1/cards/{{cardID}}/checklists/{{checklistID}}?key={{key}}&token={{token}}",
           "host": [
             "{{baseURL}}"
           ],
           "path": [
             "1",
             "cards",
-            "{{card1ID}}",
+            "{{cardID}}",
             "checklists",
             "{{checklistID}}"
           ],
@@ -938,14 +934,14 @@
           }
         ],
         "url": {
-          "raw": "{{baseURL}}/1/cards/{{card1ID}}?key={{key}}&token={{token}}",
+          "raw": "{{baseURL}}/1/cards/{{cardID}}?key={{key}}&token={{token}}",
           "host": [
             "{{baseURL}}"
           ],
           "path": [
             "1",
             "cards",
-            "{{card1ID}}"
+            "{{cardID}}"
           ],
           "query": [
             {
